@@ -3,9 +3,9 @@ entries:
   cluster-autoscaler:
   - apiVersion: v2
     appVersion: 1.20.0
-    created: "2021-03-17T02:19:57.124663791Z"
+    created: "2021-03-23T03:39:24.585340374Z"
     description: Scales Kubernetes worker nodes within autoscaling groups.
-    digest: 03620232571672fe4f290fb32e7a44bb60e52f0cfb6e569726663010450b6217
+    digest: 255df1c17aa3a195be9e525e1120353fc5cb3ce7b8eea5e348522fec9152e7d6
     home: https://github.com/kubernetes/autoscaler
     icon: https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png
     maintainers:
@@ -22,6 +22,6 @@ entries:
     - https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler
     type: application
     urls:
-    - https://github.com/ArchiFleKs/autoscaler/releases/download/cluster-autoscaler-chart-9.9.0/cluster-autoscaler-9.9.0.tgz
-    version: 9.9.0
-generated: "2021-03-17T02:19:56.992478947Z"
+    - https://github.com/ArchiFleKs/autoscaler/releases/download/cluster-autoscaler-chart-9.9.1/cluster-autoscaler-9.9.1.tgz
+    version: 9.9.1
+generated: "2021-03-23T03:39:24.391859728Z"
